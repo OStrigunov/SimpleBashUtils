@@ -1,0 +1,7 @@
+int char Int Char INT CHAR
+
+double
+int Char Int CHAR
+
+void
+int char
